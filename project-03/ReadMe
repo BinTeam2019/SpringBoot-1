@@ -1,0 +1,8 @@
+1.自定义banner:
+我们只需要在Spring Boot工程的/src/main/resources目录下创建一个banner.txt文件，
+然后将ASCII字符画复制进去，就能替换默认的banner了。
+http://www.network-science.de/ascii/
+http://www.degraeve.com/img2txt.php
+2.配置文件 .yml & .properties
+3.日志格式化
+
